@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chinmaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thechinmaya-nayak/)](https://linkedin.com/in/thechinmaya-nayak/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Chinmaya-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Chinmaya-green)](https://chinmaya97.github.io/)
 
 I'm
 MERN stack devloper
